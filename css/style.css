@@ -29,6 +29,10 @@ a:hover {
     background-size: cover;
 }
 
+.menu-section{
+    width: 100%;
+}
+
 .menu-section .bg-light {
     background: transparent !important;
 }
@@ -54,7 +58,7 @@ a:hover {
 
 .banner {
     width: 100%;
-    padding: 180px 0px;
+    padding: 80px 0px;
 }
 
 .banner .inner-banner {
